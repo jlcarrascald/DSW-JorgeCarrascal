@@ -1,5 +1,6 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #005883;
 }
 
 .titulo{
@@ -13,5 +14,4 @@ body{
 
 .ajustes{
     text-align: justify;
-    background-color: #B3B3B3;
 }
