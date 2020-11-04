@@ -5,5 +5,10 @@
 
 .menu{
     padding: 30px;
-    background-color: #005883;
+    background-color: #F47920;
+}
+
+.ajustes{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
