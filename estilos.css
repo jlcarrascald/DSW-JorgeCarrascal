@@ -10,6 +10,7 @@ body{
 .menu{
     padding: 30px;
     background-color: #F47920;
+    text-align: center;
 }
 
 .ajustes{
@@ -18,5 +19,5 @@ body{
 }
 
 .logo{
-    padding: 100px;
+    padding: 70px;
 }
