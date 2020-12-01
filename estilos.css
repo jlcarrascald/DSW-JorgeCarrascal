@@ -13,7 +13,8 @@ body{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: auto;
-    width: 400px;
+    width: 500px;
+    float: left;
 }
 
 .ajustes{
