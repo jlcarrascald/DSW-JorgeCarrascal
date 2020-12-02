@@ -9,13 +9,16 @@ body{
     text-align: center;
 }
 
+.header{
+    margin: auto;
+    width: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .menu{
     padding: 10px 15px;
     background-color: #F47920;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: auto;
-    width: 500px;
     float: left;
     display: block;
 }
