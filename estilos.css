@@ -1,6 +1,8 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:  #FFFF31;
+    margin: 0px;
+    padding: 0px;
 }
 
 .titulo{
@@ -11,13 +13,13 @@ body{
     margin: auto;
     width: 500px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    position: relative;
-    right: 100px;
-    top: 10px;
 }
 
 ul, ol {
     list-style: none;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
 
 .menu li a{
