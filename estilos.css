@@ -22,12 +22,11 @@ ul, ol {
 .menu li a{
     padding: 10px 15px;
     background-color: #F47920;
-    text-align: center;
     text-decoration: none;
 }
 
 .menu li a:hover {
-    background-color: #434343;
+    background-color: #F47920;
 }
 
 .menu > li {
