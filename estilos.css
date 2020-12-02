@@ -8,7 +8,7 @@ body{
 }
 
 .header{
-    margin: auto;
+    margin: 500px;
     width: 500px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -23,6 +23,7 @@ ul, ol {
     text-align: center;
     text-decoration: none;
     display: block;
+    color: #FFF;
 }
 
 .menu li a:hover {
