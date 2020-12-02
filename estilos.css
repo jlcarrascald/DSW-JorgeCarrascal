@@ -39,16 +39,19 @@ body{
 
 .menu > li {
     float: left;
+    list-style: none;
 }
 
 .menu li ul {
     display: none;
     position: absolute;
     min-width: 70px;
+    list-style: none;
 }
 
 .menu li:hover > ul {
     display: block;
+    list-style: none;
 }
 
 .ajustes{
