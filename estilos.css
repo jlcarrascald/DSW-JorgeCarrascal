@@ -9,8 +9,9 @@ body{
 
 .edicion{
     margin: auto;
-    width: 600px;
+    width: 500px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
 }
 
 ul, ol {
