@@ -25,6 +25,8 @@ body{
     text-decoration: none;
     display: block;
     color: #000000;
+    list-style: none;
+    text-align: center;
 }
 
 .menu li a:hover {
