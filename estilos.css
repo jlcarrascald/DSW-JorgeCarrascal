@@ -22,7 +22,7 @@ ul, ol {
     background-color: #F47920;
     text-align: center;
     text-decoration: none;
-    float: left;
+    display: block;
 }
 
 .menu li a:hover {
