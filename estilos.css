@@ -30,6 +30,7 @@ body{
     color: #000000;
     list-style: none;
     text-align: center;
+    font-size: 20px;
 }
 
 .menu li a:hover {
