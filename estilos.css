@@ -15,9 +15,12 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+ul, ol {
+    list-style: none;
+}
+
 .menu{
     padding: 10px 15px;
-    margin: 0px;
     background-color: #F47920;
     text-align: center;
     float: left;
