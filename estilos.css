@@ -30,6 +30,10 @@ ul, ol {
     float: left;
 }
 
+.menu li ul {
+    display: none;
+}
+
 .ajustes{
     text-align: justify;
     background-color: #43C7F4;
