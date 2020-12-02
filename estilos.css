@@ -23,8 +23,11 @@ ul, ol {
     padding: 10px 15px;
     background-color: #F47920;
     text-align: center;
-    float: left;
     text-decoration: none;
+}
+
+.menu{
+    float: left;
 }
 
 .ajustes{
