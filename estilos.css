@@ -26,6 +26,10 @@ ul, ol {
     text-decoration: none;
 }
 
+.menu li a:hover {
+    background-color: #434343;
+}
+
 .menu > li {
     float: left;
 }
