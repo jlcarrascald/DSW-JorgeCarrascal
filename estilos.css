@@ -15,7 +15,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.menu ul, ol {
+.menu ul {
     list-style: none;
     text-align: center;
 }
