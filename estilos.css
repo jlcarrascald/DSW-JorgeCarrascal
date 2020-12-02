@@ -35,6 +35,12 @@ ul, ol {
 
 .menu li ul {
     display: none;
+    position: absolute;
+    min-width: 140px;
+}
+
+.menu li:hover > ul {
+    display: block;
 }
 
 .ajustes{
