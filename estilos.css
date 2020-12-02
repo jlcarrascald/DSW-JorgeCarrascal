@@ -11,7 +11,7 @@ body{
 
 .edicion{
     margin: auto;
-    width: 700px;
+    width: 800px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     list-style: none;
 }
@@ -55,9 +55,9 @@ body{
 }
 
 .ajustes{
-    text-align: left;
+    text-align: justify;
     background-color: #43C7F4;
-    font-size: 18;
+    font-size: 20;
 }
 
 .logo{
