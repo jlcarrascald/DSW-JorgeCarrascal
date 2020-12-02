@@ -13,7 +13,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-ul, ol {
+.menu ul, ol {
     list-style: none;
     text-align: center;
 }
